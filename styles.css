@@ -1,0 +1,100 @@
+body {
+    font-size: 9.5px;
+    font-family: "Comic Sans MS";
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: rgb(226, 225, 225);
+}
+
+.style1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(226, 225, 225);
+    text-align-last: right;
+    padding: 3px 5px;
+}
+
+header {
+    background: rgb(202, 202, 202);
+    color: white;
+    font-family: "Century Gothic";
+}
+
+footer {
+    padding: 10px 20px;
+    background: rgb(202, 202, 202);
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 5px;
+}
+
+a {
+    color: rgba(4, 194, 241, 0.979);
+}
+
+li {
+    color: lightskyblue;
+    margin-left: -27px;
+}
+
+.section-style {
+    margin-left: auto;
+    margin-right: auto;
+    background: whitesmoke;
+    width: 50%;
+}
+
+.left-shift {
+    padding: 3px 8px;
+    height: auto;
+    width: auto;
+    border: .4px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+td {
+    vertical-align: top;
+    width: 150px;
+    scroll-padding-right: 20px;
+}
+
+input,
+textarea {
+    border: .5px solid lightgray;
+    width: 220px;
+}
+
+#inline {
+    width: 50%;
+    height: auto;
+    display: flex;
+    margin-left: 25%;
+}
+
+.one {
+    width: 30%;
+    height: auto;
+}
+
+.two {
+    width: 80%;
+    height: auto;
+    padding: 0px 20px;
+}
+
+.style3 {
+    margin-left: 39.5%;
+}
+
+h2 {
+    font-family: "Century Gothic";
+}
+   
