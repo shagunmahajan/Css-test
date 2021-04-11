@@ -1,6 +1,12 @@
+html{ 
+    height: 100%;
+}
 body {
     font-size: 9.5px;
     font-family: "Comic Sans MS";
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 img {
